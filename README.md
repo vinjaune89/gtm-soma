@@ -1,9 +1,9 @@
-# GTM Codex
+# GTM Soma
 
 A curated reference of GTM engineering tools — designed to be cloned into your AI agent's knowledge base.
 
 ```
-git clone https://github.com/vinjaune89/gtm-codex.git knowledge/gtm-codex
+git clone https://github.com/vinjaune89/gtm-soma.git knowledge/gtm-soma
 ```
 
 Your Claude Code (or any LLM agent) now knows the GTME landscape.
@@ -26,7 +26,7 @@ Most GTM tool lists rank on features, pricing, or G2 reviews. This one ranks on 
 
 A tool with a full API and MCP server lets your agent enrich contacts, trigger sequences, and update your CRM without you touching a browser. A tool that's browser-only means your agent can't help you with it.
 
-The GTM engineering stack is shifting from "click buttons in 12 tabs" to "tell your agent what to do." This codex reflects that shift.
+The GTM engineering stack is shifting from "click buttons in 12 tabs" to "tell your agent what to do." This repo reflects that shift.
 
 ## Categories
 
@@ -53,7 +53,7 @@ Pre-built tool combinations for different approaches:
 **Loading into Claude Code:**
 ```
 # Clone into your project's knowledge directory
-git clone https://github.com/vinjaune89/gtm-codex.git knowledge/gtm-codex
+git clone https://github.com/vinjaune89/gtm-soma.git knowledge/gtm-soma
 
 # The CLAUDE.md in the repo tells your agent how to use it
 ```
@@ -73,6 +73,18 @@ git clone https://github.com/vinjaune89/gtm-codex.git knowledge/gtm-codex
 | Send cold email or LinkedIn outreach | [Outreach](categories/outreach.md) |
 | Detect buying signals and triggers | [Signals](categories/signals.md) |
 | Connect tools and automate workflows | [Orchestration](categories/orchestration.md) |
+
+## Foundationals
+
+Creator and framework breakdowns — the thinking behind the tools.
+
+| Creator | What they teach |
+|---------|----------------|
+| [Eric Nowoslawski](foundationals/eric-nowoslawski.md) | Offer-first outbound, Data-Infer-Copy, scale mechanics |
+| Jordan Crawford | PVP, Pain Qualified Segments, the three eras of GTM AI |
+| Patrick Spychalski | CRM cleaning, credit engineering, vibe-coding for GTM |
+
+More coming. [Full series →](foundationals/README.md)
 
 ## Creators to Follow
 

@@ -1,4 +1,4 @@
-# GTM Codex — AI Agent Instructions
+# GTM Soma — AI Agent Instructions
 
 This file tells your Claude Code (or any LLM agent) how to use this repository as a GTM engineering reference.
 
