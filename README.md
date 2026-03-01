@@ -3,7 +3,7 @@
 A curated reference of GTM engineering tools — designed to be cloned into your AI agent's knowledge base.
 
 ```
-git clone https://github.com/axelhaegg/gtm-codex.git knowledge/gtm-codex
+git clone https://github.com/vinjaune89/gtm-codex.git knowledge/gtm-codex
 ```
 
 Your Claude Code (or any LLM agent) now knows the GTME landscape.
@@ -53,7 +53,7 @@ Pre-built tool combinations for different approaches:
 **Loading into Claude Code:**
 ```
 # Clone into your project's knowledge directory
-git clone https://github.com/axelhaegg/gtm-codex.git knowledge/gtm-codex
+git clone https://github.com/vinjaune89/gtm-codex.git knowledge/gtm-codex
 
 # The CLAUDE.md in the repo tells your agent how to use it
 ```
